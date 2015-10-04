@@ -28,26 +28,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1A5996631BB6F8CB005362B2"
-               BuildableName = "CurateScreens.xctest"
-               BlueprintName = "CurateScreensCurateScreenss"
-               ReferencedContainer = "container:CurateScreens.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1A59966E1BB6F8CB005362B2"
-               BuildableName = "CurateScreens.xctest"
-               BlueprintName = "CurateScreensUICurateScreenss"
-               ReferencedContainer = "container:CurateScreens.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
@@ -55,7 +35,7 @@
             BlueprintIdentifier = "1A59964F1BB6F8CB005362B2"
             BuildableName = "CurateScreens.app"
             BlueprintName = "CurateScreens"
-            ReferencedContainer = "container:Test.xcodeproj">
+            ReferencedContainer = "container:CurateScreens.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -78,7 +58,7 @@
             BlueprintIdentifier = "1A59964F1BB6F8CB005362B2"
             BuildableName = "CurateScreens.app"
             BlueprintName = "CurateScreens"
-            ReferencedContainer = "container:Test.xcodeproj">
+            ReferencedContainer = "container:CurateScreens.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
