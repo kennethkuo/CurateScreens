@@ -13,9 +13,10 @@
 		1A5996691BB6F8CB005362B2 /* TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5996681BB6F8CB005362B2 /* TestTests.swift */; };
 		1A5996741BB6F8CB005362B2 /* TestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5996731BB6F8CB005362B2 /* TestUITests.swift */; };
 		1A5996821BB6F912005362B2 /* PersonaScreen5sand6.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A5996811BB6F912005362B2 /* PersonaScreen5sand6.xib */; settings = {ASSET_TAGS = (); }; };
+		1AC0AE991BC1791300F0E0E9 /* InfoPage1For5S.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC0AE981BC1791300F0E0E9 /* InfoPage1For5S.xib */; settings = {ASSET_TAGS = (); }; };
 		1AC885BA1BB8BB3800AB3379 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AC885B91BB8BB3800AB3379 /* Launch Screen.storyboard */; settings = {ASSET_TAGS = (); }; };
 		1AC885BC1BB9822000AB3379 /* PersonaScreen6Plus.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC885BB1BB9822000AB3379 /* PersonaScreen6Plus.xib */; settings = {ASSET_TAGS = (); }; };
-		1AC885C01BBB115E00AB3379 /* InfoPage1Hipster.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC885BF1BBB115E00AB3379 /* InfoPage1Hipster.xib */; settings = {ASSET_TAGS = (); }; };
+		1AC885C01BBB115E00AB3379 /* InfoPage1For6and6Plus.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC885BF1BBB115E00AB3379 /* InfoPage1For6and6Plus.xib */; settings = {ASSET_TAGS = (); }; };
 		1AC885C21BBB12BE00AB3379 /* InfoPage1Tech.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC885C11BBB12BE00AB3379 /* InfoPage1Tech.xib */; settings = {ASSET_TAGS = (); }; };
 		1AC885C41BBB12CE00AB3379 /* InfoPage1Stylish.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC885C31BBB12CE00AB3379 /* InfoPage1Stylish.xib */; settings = {ASSET_TAGS = (); }; };
 		1AC885C61BBB12D700AB3379 /* InfoPage1Finance.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC885C51BBB12D700AB3379 /* InfoPage1Finance.xib */; settings = {ASSET_TAGS = (); }; };
@@ -49,12 +50,13 @@
 		1A5996731BB6F8CB005362B2 /* TestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestUITests.swift; sourceTree = "<group>"; };
 		1A5996751BB6F8CB005362B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1A5996811BB6F912005362B2 /* PersonaScreen5sand6.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = PersonaScreen5sand6.xib; path = Test/PersonaScreen5sand6.xib; sourceTree = SOURCE_ROOT; };
+		1AC0AE981BC1791300F0E0E9 /* InfoPage1For5S.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoPage1For5S.xib; sourceTree = "<group>"; };
 		1AC885B51BB8BA0700AB3379 /* CurateScreens.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CurateScreens.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AC885B61BB8BA0700AB3379 /* CurateScreens.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CurateScreens.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AC885B71BB8BA0700AB3379 /* CurateScreens.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CurateScreens.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AC885B91BB8BB3800AB3379 /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		1AC885BB1BB9822000AB3379 /* PersonaScreen6Plus.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PersonaScreen6Plus.xib; sourceTree = "<group>"; };
-		1AC885BF1BBB115E00AB3379 /* InfoPage1Hipster.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoPage1Hipster.xib; sourceTree = "<group>"; };
+		1AC885BF1BBB115E00AB3379 /* InfoPage1For6and6Plus.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoPage1For6and6Plus.xib; sourceTree = "<group>"; };
 		1AC885C11BBB12BE00AB3379 /* InfoPage1Tech.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoPage1Tech.xib; sourceTree = "<group>"; };
 		1AC885C31BBB12CE00AB3379 /* InfoPage1Stylish.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoPage1Stylish.xib; sourceTree = "<group>"; };
 		1AC885C51BBB12D700AB3379 /* InfoPage1Finance.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoPage1Finance.xib; sourceTree = "<group>"; };
@@ -107,7 +109,8 @@
 				1AC885C71BBCDF8500AB3379 /* FacebookLogIn.xib */,
 				1A5996811BB6F912005362B2 /* PersonaScreen5sand6.xib */,
 				1AC885BB1BB9822000AB3379 /* PersonaScreen6Plus.xib */,
-				1AC885BF1BBB115E00AB3379 /* InfoPage1Hipster.xib */,
+				1AC0AE981BC1791300F0E0E9 /* InfoPage1For5S.xib */,
+				1AC885BF1BBB115E00AB3379 /* InfoPage1For6and6Plus.xib */,
 				1AC885C11BBB12BE00AB3379 /* InfoPage1Tech.xib */,
 				1AC885C31BBB12CE00AB3379 /* InfoPage1Stylish.xib */,
 				1AC885C51BBB12D700AB3379 /* InfoPage1Finance.xib */,
@@ -238,9 +241,10 @@
 			files = (
 				1AC885BA1BB8BB3800AB3379 /* Launch Screen.storyboard in Resources */,
 				1AC885BC1BB9822000AB3379 /* PersonaScreen6Plus.xib in Resources */,
+				1AC0AE991BC1791300F0E0E9 /* InfoPage1For5S.xib in Resources */,
 				1AC885C21BBB12BE00AB3379 /* InfoPage1Tech.xib in Resources */,
 				1AC885C61BBB12D700AB3379 /* InfoPage1Finance.xib in Resources */,
-				1AC885C01BBB115E00AB3379 /* InfoPage1Hipster.xib in Resources */,
+				1AC885C01BBB115E00AB3379 /* InfoPage1For6and6Plus.xib in Resources */,
 				1A5996821BB6F912005362B2 /* PersonaScreen5sand6.xib in Resources */,
 				1AC885C41BBB12CE00AB3379 /* InfoPage1Stylish.xib in Resources */,
 				1A59965B1BB6F8CB005362B2 /* Assets.xcassets in Resources */,

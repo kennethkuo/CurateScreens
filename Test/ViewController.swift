@@ -14,14 +14,15 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        let view: UIView = NSBundle.mainBundle().loadNibNamed("InfoPage1Hipster", owner: self, options: nil).last as! UIView
+        let view: UIView = NSBundle.mainBundle().loadNibNamed("InfoPage1For6and6Plus", owner: self, options: nil).last as! UIView
         view.frame = self.view.frame
         self.view.addSubview(view)
     }
     
     //PersonaScreen6Plus
     //PersonaScreen5sand6
-    //InfoPage1Hipster
+    //InfoPage1For5S
+    //InfoPage1For6and6Plus
     //InfoPage1Tech
     //InfoPage1Stylish
     //InfoPage1Finance
