@@ -158,8 +158,9 @@
                     <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
                     <nil key="highlightedColor"/>
                 </label>
-                <imageView contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Hipster Persona" translatesAutoresizingMaskIntoConstraints="NO" id="me2-bb-9eS">
+                <imageView contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="me2-bb-9eS">
                     <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
+                    <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                     <constraints>
                         <constraint firstAttribute="width" secondItem="me2-bb-9eS" secondAttribute="height" multiplier="100:133" id="4Tk-ko-8um"/>
                         <constraint firstAttribute="width" secondItem="me2-bb-9eS" secondAttribute="height" multiplier="227:301" id="CPY-OQ-rCf"/>
@@ -1113,7 +1114,4 @@
             <point key="canvasLocation" x="88" y="255"/>
         </view>
     </objects>
-    <resources>
-        <image name="Hipster Persona" width="600" height="800"/>
-    </resources>
 </document>
