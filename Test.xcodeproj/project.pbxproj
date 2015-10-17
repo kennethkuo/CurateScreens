@@ -12,7 +12,11 @@
 		1A59965B1BB6F8CB005362B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A59965A1BB6F8CB005362B2 /* Assets.xcassets */; };
 		1A5996691BB6F8CB005362B2 /* TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5996681BB6F8CB005362B2 /* TestTests.swift */; };
 		1A5996741BB6F8CB005362B2 /* TestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5996731BB6F8CB005362B2 /* TestUITests.swift */; };
-		1A5996821BB6F912005362B2 /* PersonaScreen5Sand6.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A5996811BB6F912005362B2 /* PersonaScreen5Sand6.xib */; settings = {ASSET_TAGS = (); }; };
+		1A5996821BB6F912005362B2 /* PersonaScreen5S.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A5996811BB6F912005362B2 /* PersonaScreen5S.xib */; settings = {ASSET_TAGS = (); }; };
+		1AA8194A1BC9841C00CDCFB3 /* PersonaScreen6.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AA819491BC9841C00CDCFB3 /* PersonaScreen6.xib */; settings = {ASSET_TAGS = (); }; };
+		1AA8194C1BC98CAB00CDCFB3 /* PersonaScreen6P.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AA8194B1BC98CAB00CDCFB3 /* PersonaScreen6P.xib */; settings = {ASSET_TAGS = (); }; };
+		1AA8194E1BC99E9700CDCFB3 /* InfoPage1For6.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AA8194D1BC99E9700CDCFB3 /* InfoPage1For6.xib */; settings = {ASSET_TAGS = (); }; };
+		1AA819501BCA2B1200CDCFB3 /* InfoPage1For6P.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AA8194F1BCA2B1200CDCFB3 /* InfoPage1For6P.xib */; settings = {ASSET_TAGS = (); }; };
 		1AC0AE991BC1791300F0E0E9 /* InfoPage1For5S.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC0AE981BC1791300F0E0E9 /* InfoPage1For5S.xib */; settings = {ASSET_TAGS = (); }; };
 		1AC0AE9B1BC213C400F0E0E9 /* OutfitPicker5S.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC0AE9A1BC213C400F0E0E9 /* OutfitPicker5S.xib */; settings = {ASSET_TAGS = (); }; };
 		1AC0AE9D1BC214FC00F0E0E9 /* ColorPicker5S.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC0AE9C1BC214FC00F0E0E9 /* ColorPicker5S.xib */; settings = {ASSET_TAGS = (); }; };
@@ -21,8 +25,7 @@
 		1AC0AEA71BC7242000F0E0E9 /* ColorPicker6.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC0AEA61BC7242000F0E0E9 /* ColorPicker6.xib */; settings = {ASSET_TAGS = (); }; };
 		1AC0AEA91BC7244F00F0E0E9 /* ColorPicker6P.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC0AEA81BC7244F00F0E0E9 /* ColorPicker6P.xib */; settings = {ASSET_TAGS = (); }; };
 		1AC885BA1BB8BB3800AB3379 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AC885B91BB8BB3800AB3379 /* Launch Screen.storyboard */; settings = {ASSET_TAGS = (); }; };
-		1AC885BC1BB9822000AB3379 /* PersonaScreen6Plus.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC885BB1BB9822000AB3379 /* PersonaScreen6Plus.xib */; settings = {ASSET_TAGS = (); }; };
-		1AC885C01BBB115E00AB3379 /* InfoPage1For6and6P.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC885BF1BBB115E00AB3379 /* InfoPage1For6and6P.xib */; settings = {ASSET_TAGS = (); }; };
+		1AC885BC1BB9822000AB3379 /* PersonaScreen6PTest.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC885BB1BB9822000AB3379 /* PersonaScreen6PTest.xib */; settings = {ASSET_TAGS = (); }; };
 		1AC885C81BBCDF8500AB3379 /* FacebookLogIn.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AC885C71BBCDF8500AB3379 /* FacebookLogIn.xib */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
@@ -52,7 +55,11 @@
 		1A59966A1BB6F8CB005362B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1A5996731BB6F8CB005362B2 /* TestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestUITests.swift; sourceTree = "<group>"; };
 		1A5996751BB6F8CB005362B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1A5996811BB6F912005362B2 /* PersonaScreen5Sand6.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = PersonaScreen5Sand6.xib; path = Test/PersonaScreen5Sand6.xib; sourceTree = SOURCE_ROOT; };
+		1A5996811BB6F912005362B2 /* PersonaScreen5S.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = PersonaScreen5S.xib; path = Test/PersonaScreen5S.xib; sourceTree = SOURCE_ROOT; };
+		1AA819491BC9841C00CDCFB3 /* PersonaScreen6.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PersonaScreen6.xib; sourceTree = "<group>"; };
+		1AA8194B1BC98CAB00CDCFB3 /* PersonaScreen6P.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PersonaScreen6P.xib; sourceTree = "<group>"; };
+		1AA8194D1BC99E9700CDCFB3 /* InfoPage1For6.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoPage1For6.xib; sourceTree = "<group>"; };
+		1AA8194F1BCA2B1200CDCFB3 /* InfoPage1For6P.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoPage1For6P.xib; sourceTree = "<group>"; };
 		1AC0AE981BC1791300F0E0E9 /* InfoPage1For5S.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoPage1For5S.xib; sourceTree = "<group>"; };
 		1AC0AE9A1BC213C400F0E0E9 /* OutfitPicker5S.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OutfitPicker5S.xib; sourceTree = "<group>"; };
 		1AC0AE9C1BC214FC00F0E0E9 /* ColorPicker5S.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ColorPicker5S.xib; sourceTree = "<group>"; };
@@ -64,8 +71,7 @@
 		1AC885B61BB8BA0700AB3379 /* CurateScreens.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CurateScreens.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AC885B71BB8BA0700AB3379 /* CurateScreens.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CurateScreens.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AC885B91BB8BB3800AB3379 /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
-		1AC885BB1BB9822000AB3379 /* PersonaScreen6Plus.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PersonaScreen6Plus.xib; sourceTree = "<group>"; };
-		1AC885BF1BBB115E00AB3379 /* InfoPage1For6and6P.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoPage1For6and6P.xib; sourceTree = "<group>"; };
+		1AC885BB1BB9822000AB3379 /* PersonaScreen6PTest.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PersonaScreen6PTest.xib; sourceTree = "<group>"; };
 		1AC885C71BBCDF8500AB3379 /* FacebookLogIn.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FacebookLogIn.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -113,10 +119,13 @@
 				1A5996531BB6F8CB005362B2 /* AppDelegate.swift */,
 				1A5996551BB6F8CB005362B2 /* ViewController.swift */,
 				1AC885C71BBCDF8500AB3379 /* FacebookLogIn.xib */,
-				1A5996811BB6F912005362B2 /* PersonaScreen5Sand6.xib */,
-				1AC885BB1BB9822000AB3379 /* PersonaScreen6Plus.xib */,
+				1A5996811BB6F912005362B2 /* PersonaScreen5S.xib */,
+				1AA819491BC9841C00CDCFB3 /* PersonaScreen6.xib */,
+				1AA8194B1BC98CAB00CDCFB3 /* PersonaScreen6P.xib */,
+				1AC885BB1BB9822000AB3379 /* PersonaScreen6PTest.xib */,
 				1AC0AE981BC1791300F0E0E9 /* InfoPage1For5S.xib */,
-				1AC885BF1BBB115E00AB3379 /* InfoPage1For6and6P.xib */,
+				1AA8194D1BC99E9700CDCFB3 /* InfoPage1For6.xib */,
+				1AA8194F1BCA2B1200CDCFB3 /* InfoPage1For6P.xib */,
 				1AC0AE9A1BC213C400F0E0E9 /* OutfitPicker5S.xib */,
 				1AC0AE9E1BC70EE200F0E0E9 /* OutfitPicker6.xib */,
 				1AC0AEA01BC7182800F0E0E9 /* OutfitPicker6P.xib */,
@@ -214,6 +223,7 @@
 				TargetAttributes = {
 					1A59964F1BB6F8CB005362B2 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = JJVKDT7MQK;
 					};
 					1A5996631BB6F8CB005362B2 = {
 						CreatedOnToolsVersion = 7.0;
@@ -251,13 +261,16 @@
 				1AC0AEA11BC7182800F0E0E9 /* OutfitPicker6P.xib in Resources */,
 				1AC885BA1BB8BB3800AB3379 /* Launch Screen.storyboard in Resources */,
 				1AC0AE9D1BC214FC00F0E0E9 /* ColorPicker5S.xib in Resources */,
-				1AC885BC1BB9822000AB3379 /* PersonaScreen6Plus.xib in Resources */,
+				1AC885BC1BB9822000AB3379 /* PersonaScreen6PTest.xib in Resources */,
 				1AC0AEA71BC7242000F0E0E9 /* ColorPicker6.xib in Resources */,
+				1AA8194A1BC9841C00CDCFB3 /* PersonaScreen6.xib in Resources */,
 				1AC0AE9B1BC213C400F0E0E9 /* OutfitPicker5S.xib in Resources */,
 				1AC0AE991BC1791300F0E0E9 /* InfoPage1For5S.xib in Resources */,
 				1AC0AEA91BC7244F00F0E0E9 /* ColorPicker6P.xib in Resources */,
-				1AC885C01BBB115E00AB3379 /* InfoPage1For6and6P.xib in Resources */,
-				1A5996821BB6F912005362B2 /* PersonaScreen5Sand6.xib in Resources */,
+				1AA819501BCA2B1200CDCFB3 /* InfoPage1For6P.xib in Resources */,
+				1AA8194E1BC99E9700CDCFB3 /* InfoPage1For6.xib in Resources */,
+				1A5996821BB6F912005362B2 /* PersonaScreen5S.xib in Resources */,
+				1AA8194C1BC98CAB00CDCFB3 /* PersonaScreen6P.xib in Resources */,
 				1AC0AE9F1BC70EE200F0E0E9 /* OutfitPicker6.xib in Resources */,
 				1A59965B1BB6F8CB005362B2 /* Assets.xcassets in Resources */,
 				1AC885C81BBCDF8500AB3379 /* FacebookLogIn.xib in Resources */,
@@ -407,10 +420,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Test/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Curate.Test;
 				PRODUCT_NAME = CurateScreens;
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -418,10 +435,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Test/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Curate.Test;
 				PRODUCT_NAME = CurateScreens;
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};

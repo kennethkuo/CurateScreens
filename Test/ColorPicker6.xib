@@ -176,7 +176,7 @@
         </view>
     </objects>
     <resources>
-        <image name="Hipster Persona" width="600" height="800"/>
+        <image name="Hipster Persona" width="370" height="575"/>
         <image name="tshirt.crewneck.black" width="384" height="449"/>
     </resources>
 </document>

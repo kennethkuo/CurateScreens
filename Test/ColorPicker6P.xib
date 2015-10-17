@@ -59,9 +59,6 @@
                     <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="15"/>
                     <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                     <nil key="highlightedColor"/>
-                    <variation key="heightClass=regular-widthClass=compact" misplaced="YES">
-                        <rect key="frame" x="263" y="240" width="66" height="18"/>
-                    </variation>
                 </label>
                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Select the other colors of this piece that you own. Tap my face once you're done." textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SVX-VG-UG0">
                     <rect key="frame" x="-42" y="-21" width="42" height="21"/>
@@ -179,7 +176,7 @@
         </view>
     </objects>
     <resources>
-        <image name="Hipster Persona" width="600" height="800"/>
+        <image name="Hipster Persona" width="370" height="575"/>
         <image name="tshirt.crewneck.black" width="384" height="449"/>
     </resources>
 </document>
